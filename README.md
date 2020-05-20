@@ -40,6 +40,12 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
+1. **Setup Azure Static Web App!**
+
+    To deploy the site to Azure Static Web Apps refer to the documentation at [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/7-exercise-build-deploy-static-app)
+    
+    Take note that there is an error in the tutorial: *Instead of using 'build' as your output folder use 'public'*
+
 ## 🧐 What's inside?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
