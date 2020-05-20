@@ -97,9 +97,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 ## 💫 Deploy
+  To deploy the site to Azure Static Web Apps refer to the documentation at [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/7-exercise-build-deploy-static-app)
+    
+    Take note that there is an error in the tutorial: *Instead of using 'build' as your output folder use 'public'*
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
